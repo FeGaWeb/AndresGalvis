@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Andres Galvis</h1>
-<h3 align="center">A student frontend developer and professional graphic dedsigner from Colombia</h3>
+<h3 align="center">A student frontend developer and professional graphic designer from Colombia</h3>
 
 - 🌱 I’m currently learning **JavaScript, Python, Java, React**
 
