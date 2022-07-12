@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Andres Galvis</h1>
 <h3 align="center">A student frontend developer and professional graphic designer from Colombia</h3>
 
-- 🌱 I’m currently learning **JavaScript, Python, Java, React**
+- 🌱 I’m currently learning **JavaScript, Python, Java**
 
-- 💬 Ask me about **HTML5, CSS3, SCSS**
+- 💬 Ask me about **HTML5, CSS3, SCSS, Phyton, Java**
 
 - 📫 How to reach me **andresgalviscamacho21@gmail.com**
 
